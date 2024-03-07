@@ -28,5 +28,9 @@ Experiment with different light conditions to observe the LED and buzzer behavio
 Remember to adjust the resistor values and pin assignments based on your specific components. Have fun building project, and feel free to customize it further! 🛠️🔌🌟
 Output:
 ![Hardware Output](https://github.com/mogalroshanbaig/Light-Responsive-LED-System/assets/96071713/24570e61-08b5-498e-b76c-3aaeeaedf125)
+
+![Hardware Output (2)](https://github.com/mogalroshanbaig/Light-Responsive-LED-System/assets/96071713/f76bec8b-86e6-4760-9153-cba6a14220fa)
+
+Here is the Video Output:
 https://github.com/mogalroshanbaig/Light-Responsive-LED-System/assets/96071713/cbce18ef-5de6-4d55-aaa6-1b9c19f2bdf4
 
