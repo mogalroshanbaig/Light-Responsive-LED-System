@@ -12,12 +12,12 @@ The buzzer will beep faster and at a higher pitch with more light and slower and
 It’s a great way to demonstrate your understanding of analog sensors and digital outputs.
 
 Components Needed:
-Arduino Uno
-Breadboard
-LED
-Photovoltaic cell (light sensor)
-Piezo speaker (buzzer)
-Resistors: 2ohm (for LEDs), 2ohm (for photovoltaic cell), and 2ohm (for piezo buzzer)
+Arduino Uno,
+Breadboard,
+LED,
+Photovoltaic cell (light sensor),
+Piezo speaker (buzzer),
+Resistors: 2ohm (for LEDs), 2ohm (for photovoltaic cell), and 2ohm (for piezo buzzer).
 
 Wiring Diagram:
 Connect the LED to digital pins on the Arduino via 2ohm resistors.
