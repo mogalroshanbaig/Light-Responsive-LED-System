@@ -6,10 +6,10 @@ illuminates, and the buzzer emits a gentle tone. As daylight returns, the LED tu
 and the buzzer falls silent. It’s a smart system that harmonizes with the changing light levels!
 
 Project Description:
-1.This project combines a light sensor (photocell), LEDs, and a piezo buzzer.
-2.The LED will increase the brightness when there is no light and viceversa.
-3.The buzzer will beep faster and at a higher pitch with more light and slower and lower pitch with less light.
-4.It’s a great way to demonstrate your understanding of analog sensors and digital outputs.
+This project combines a light sensor (photocell), LEDs, and a piezo buzzer.
+The LED will increase the brightness when there is no light and viceversa.
+The buzzer will beep faster and at a higher pitch with more light and slower and lower pitch with less light.
+It’s a great way to demonstrate your understanding of analog sensors and digital outputs.
 
 Components Needed:
 Arduino Uno,
@@ -20,9 +20,9 @@ Piezo speaker (buzzer),
 Resistors: 2ohm (for LEDs), 2ohm (for photovoltaic cell), and 2ohm (for piezo buzzer).
 
 Wiring Diagram:
-1.Connect the LED to digital pins on the Arduino via 2ohm resistors.
-2.Connect the photovoltaic cell (light sensor) to an analog pin on the Arduino via a 2ohm resistor.
-3.Connect the piezo buzzer to another digital pin on the Arduino (via a 2ohm resistor).
+Connect the LED to digital pins on the Arduino via 2ohm resistors.
+Connect the photovoltaic cell (light sensor) to an analog pin on the Arduino via a 2ohm resistor.
+Connect the piezo buzzer to another digital pin on the Arduino (via a 2ohm resistor).
 
 ![Circuit Diagram](https://github.com/mogalroshanbaig/Light-Responsive-LED-System/assets/96071713/39b610dc-3fc5-4c88-872f-a9833d2b4647)
 
